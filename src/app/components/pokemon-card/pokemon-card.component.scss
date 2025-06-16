@@ -1,0 +1,7 @@
+.hover-expand {
+  transition: transform 0.3s ease;
+  cursor: pointer; 
+}
+.hover-expand:hover {
+  transform: scale(1.03);
+}
